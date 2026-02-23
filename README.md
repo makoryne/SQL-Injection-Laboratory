@@ -115,3 +115,4 @@ Real sistemlərdə icazəsiz SQL Injection hücumları həyata keçirmək qanuns
 ---
 
 ## 📜 Lisensiya
+Bu layihə [MIT License](LICENSE) altında lisenziyalaşdırılıb.
